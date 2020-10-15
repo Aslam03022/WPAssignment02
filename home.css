@@ -1,0 +1,59 @@
+body{ 
+           
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.DownloadCV{
+    background: #F0995E 
+}
+.dark{
+    font-weight:bold;
+}
+.fixed-header, .fixed-footer{
+    width: 100%;
+    position: fixed;        
+    background: #96C9F0    ;
+    padding: 10px 0;
+    color: #fff;
+}
+ul#contact {
+    list-style-type: none;
+    }
+.HomePage{
+    text-align:right; 
+}
+.fixed-header{
+    top: 0;
+    text-align:left;
+}
+.fixed-footer{
+    bottom: 0;
+}
+.quotation{
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 100px;
+    background-color:#F6DDCC;
+}
+.MyName{
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 215px;
+}
+div.image{
+    text-align: right;
+    
+}
+.container{
+    width: 80%;
+    margin: 0 auto; /* Center the DIV horizontally */
+}
+/* nav{
+    margin-left: 550px;
+} */
+nav a{
+    color: #fff;
+    text-decoration: none;
+    padding: 7px 25px;
+    display: inline-block;
+}
